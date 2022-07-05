@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alan R. Lowe"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Associate Professor and Turing Fellow"
   location         : "London"
   employer         :
