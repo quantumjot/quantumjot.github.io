@@ -7,4 +7,5 @@ venue: 'Nature Machine Intelligence'
 paperurl: 'https://doi.org/10.1038%2Fs42256-022-00503-6'
 citation: ' Christopher Soelistyo,  Giulia Vallardi,  Guillaume Charras,  Alan Lowe, &quot;Learning biophysical determinants of cell fate with deep neural networks.&quot; Nature Machine Intelligence, 2022.'
 ---
-[Access paper here](https://doi.org/10.1038%2Fs42256-022-00503-6){:target="_blank"}
+[<img src="/images/2022-Soelistyo.jpg" />](https://doi.org/10.1038%2Fs42256-022-00503-6){:target="_blank"}
+
