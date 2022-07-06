@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Alan R. Lowe"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I am a **Turing Fellow** at the [Alan Turing Institute](https://www.turing.ac.uk) where I run a research group of computer scientists focused on the application of Artifical Intelligence (AI) to problems in the life sciences. I also run an interest group dedicated to the topic of [learning the organisational principles of living systems](https://www.turing.ac.uk/research/interest-groups/learning-organisational-principles-living-systems). We are developing computational [tools](https://github.com/alan-turing-institute/scivision) that span disciplines and enable broad adoption of AI in the sciences.
 
