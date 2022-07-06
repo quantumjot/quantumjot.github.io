@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-========
-
 I am a **Turing Fellow** at the [Alan Turing Institute](https://www.turing.ac.uk) where I run a research group of computer scientists focused on the application of Artifical Intelligence (AI) to problems in the life sciences. I also run an interest group dedicated to the topic of [learning the organisational principles of living systems](https://www.turing.ac.uk/research/interest-groups/learning-organisational-principles-living-systems). We are developing computational [tools](https://github.com/alan-turing-institute/scivision) that span disciplines and enable broad adoption of AI in the sciences.
 
 I am also an **Associate Professor** of biophysics at [University College London](https://www.ucl.ac.uk) (UCL) where I run a research group comprising  a team of physicists, computer scientists and biologists. We develop state-of-the-art quantitative imaging and measurement tools. I teach topics ranging from biochemistry to optics, imaging and machine learning.
@@ -22,5 +19,5 @@ Research
 
 Links
 -----
-* https://iris.ucl.ac.uk/iris/browse/profile?upi=ARLOW07
-* https://www.turing.ac.uk/people/turing-fellows/alan-lowe
+* [UCL profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=ARLOW07)
+* [Turing profile](https://www.turing.ac.uk/people/turing-fellows/alan-lowe)
