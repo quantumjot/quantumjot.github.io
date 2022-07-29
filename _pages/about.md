@@ -18,6 +18,18 @@ I gained my Ph.D. in biophysics from the [University of Cambridge](https://www.c
 Research
 --------
 
+#### AI for Science ####
+
+#### Computer vision and multi-object tracking ####
+
+#### Cellular dynamics ####
+
+#### Quantitative imaging and image-based drug screening ####
+
+#### Molecular structure and folding ####
+
+#### Open source software development ####
+
 Links
 -----
 * [UCL profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=ARLOW07)
