@@ -1,5 +1,5 @@
 ---
-title: "Importin-{\upbeta} modulates the permeability of the nuclear pore complex in a Ran-dependent manner"
+title: "Importin-beta modulates the permeability of the nuclear pore complex in a Ran-dependent manner"
 collection: publications
 permalink: /publication/2015-03-01-Importin-upbeta-modulates-the-permeability-of-the-nuclear-pore-complex-in-a-Ran-dependent-manner
 date: 2015-03-01
