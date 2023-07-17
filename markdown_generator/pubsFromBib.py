@@ -100,16 +100,19 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                citation = citation+author.first_names[0]+" "+author.last_names[0]
+                
+                if author != bibdata.entries[bib_id].persons["author"][-1]:
+                    citation += ", "
 
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            # citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            # citation = citation + " " + html_escape(venue)
+            # citation = citation + ", " + pub_year + "."
 
             
             ## YAML variables
@@ -128,6 +131,8 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+
+            md += "\ndoi: " + html_escape(b['doi'])
             
             url = False
             if "url" in b.keys():
@@ -135,7 +140,11 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            # md += "\ncitation: '" + html_escape(citation) + "'"
+            md += "\nauthors: '" + html_escape(citation) + "'"
+
+            md += "\ntype: 'Paper'"
+            md += "\ntheme: 'machine learning, methods, software'"
 
             md += "\n---"
 
@@ -150,6 +159,9 @@ for pubsource in publist:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
+
+            if os.path.exists("../_publications/" + md_filename):
+                continue
 
             with open("../_publications/" + md_filename, 'w') as f:
                 f.write(md)

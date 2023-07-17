@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Variational Autoencoders"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Alan Turing Institute"
 date: 2014-01-01
-location: "City, Country"
+location: "London, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Contents
 ======
 
 Heading 2

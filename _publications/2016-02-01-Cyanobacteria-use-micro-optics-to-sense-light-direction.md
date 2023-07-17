@@ -4,7 +4,11 @@ collection: publications
 permalink: /publication/2016-02-01-Cyanobacteria-use-micro-optics-to-sense-light-direction
 date: 2016-02-01
 venue: 'eLife'
-paperurl: 'https://doi.org/10.7554%2Felife.12620'
-citation: ' Nils Schuergers,  Tchern Lenn,  Ronald Kampmann,  Markus Meissner,  Tiago Esteves,  Maja Temerinac-Ott,  Jan Korvink,  Alan Lowe,  Conrad Mullineaux,  Annegret Wilde, &quot;Cyanobacteria use micro-optics to sense light direction.&quot; eLife, 2016.'
+doi: 10.7554/elife.12620
+paperurl: 'https://doi.org/10.7554/elife.12620'
+authors: 'Nils Schuergers, Tchern Lenn, Ronald Kampmann, Markus Meissner, Tiago Esteves, Maja Temerinac-Ott, Jan Korvink, Alan Lowe, Conrad Mullineaux, Annegret Wilde'
+type: 'Paper'
+theme: 'machine learning, methods, software'
+img: '2016-Schurgers.jpg'
 ---
-[<img src="/images/2016-Schurgers.jpg" />](https://doi.org/10.7554%2Felife.12620){:target="_blank"}
+[Access paper here](https://doi.org/10.7554/elife.12620){:target="_blank"}
