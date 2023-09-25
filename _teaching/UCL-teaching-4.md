@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2022-teaching-1
 venue: "University College London"
-date: 2023
+date: 2023-01-01
 location: "London, UK"
 ---
 

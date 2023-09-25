@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Alan Turing Institute"
-date: 2022
+date: 2022-01-01
 location: "London, UK"
 ---
 
