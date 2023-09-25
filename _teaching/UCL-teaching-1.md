@@ -1,18 +1,13 @@
 ---
-title: "BIOC0003 - Experimental Biochemistry"
+title: "CELL0027 - Computational Cell Biophysics"
 collection: teaching
-type: "Undergraduate"
+type: "Postgraduate"
 permalink: /teaching/2022-teaching-1
 venue: "University College London"
-date: 2022-01-01
+date: 2024
 location: "London, UK"
 ---
 
-Introduction to Python programming.
+Introduction to Machine Learning.
 
-Heading 1
-======
 
-Practical
-======
-https://github.com/quantumjot/BIOC0003-IntroductionToPython
