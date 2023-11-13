@@ -1,5 +1,5 @@
 ---
-title: "IL-15-induced modulation of NK cell migration identified using a data-driven approach"
+title: "cellPLATO: an unsupervised method for identifying cell behaviour in heterogeneous cell trajectory data"
 collection: publications
 permalink: /publication/2023-10-29-IL-15-induced-modulation-of-NK-cell-migration-identified-using-a-data-driven-approach
 date: 2023-10-29
