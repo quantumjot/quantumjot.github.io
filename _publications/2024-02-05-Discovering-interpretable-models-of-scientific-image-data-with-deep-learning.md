@@ -1,7 +1,7 @@
 ---
 title: "Discovering interpretable models of scientific image data with deep learning"
 collection: publications
-permalink: /publication/2024-02-05-Discovering-interpretable-models-of-scientific-image-data-with-deep-learning.md
+permalink: /publication/2024-02-05-Discovering-interpretable-models-of-scientific-image-data-with-deep-learning
 date: 2024-02-05
 venue: 'arXiv'
 doi: 10.48550/ARXIV.2402.03115
