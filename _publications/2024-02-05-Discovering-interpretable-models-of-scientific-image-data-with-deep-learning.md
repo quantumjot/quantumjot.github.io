@@ -3,7 +3,7 @@ title: "Discovering interpretable models of scientific image data with deep lear
 collection: publications
 permalink: /publication/2024-02-05-Discovering-interpretable-models-of-scientific-image-data-with-deep-learning
 date: 2024-02-05
-venue: 'arXiv'
+venue: 'CVPR'
 doi: 10.48550/ARXIV.2402.03115
 paperurl: 'https://arxiv.org/abs/2402.03115'
 authors: 'Christopher Soelistyo, Alan Lowe'
